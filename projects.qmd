@@ -1,0 +1,15 @@
+---
+title: "Projects"
+---
+
+-   European Commission IHI LiverAim, GAN [101132901](https://www.liveraim.eu/), Co-applicant & **Principal Investigator** of Health Economics Work Package. Duration 01/04/2024 -- 01/04/2029 (Funding: €1,260,000).
+
+-   \[**Project partner**\] Swiss National Science Foundation Synergia: From single disease reductionist research to informed Machine Learning: a new research paradigm for multimorbidity, GAN [216636](https://data.snf.ch/grants/grant/216636). 01/08/2023 -- 31/07/2027. (Approved amount CHF3,106,664)
+
+-   \[**Project partner**\] Swiss National Science Foundation Project Funding: SALuBRITY randomised clinical trial, GAN [208064](https://data.snf.ch/grants/grant/208064). 01/06/2023 -- 31/05/2027. (Approved amount CHF875,646)
+
+-   European Commission Horizon 2020 LiverHope, GAN [731875](https://liverhope-h2020.eu/index_en), Co-applicant & **Principal Investigator** of Health Economics Work Package. Duration 01/01/2017 -- 01/06/2022 (Funding: €56,000).
+
+-   European Commission Horizon 2020 LiverScreen, GAN [847989](https://www.liverscreen.eu/). Co-applicant **& Principal Investigator** of Cost-Effectiveness Analysis Work Package. Duration: 01/01/2020 -- 01/01/2024 (Funding: €120,000).
+
+-   European Institute of Innovation and Technology (EIT) Health FiSPlat, GAN [211007](https://fisplat.com/about/). Co-applicant & Principal Investigator of Cost-effectiveness Analysis Work Package. Duration: 01/01/2020 -- 31/12/2022 (EIT Funding: €50,000).

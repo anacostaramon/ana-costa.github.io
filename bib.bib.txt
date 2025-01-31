@@ -1,0 +1,723 @@
+@article{puig2019accuracy,
+  title={Accuracy of the narrow-band imaging international colorectal endoscopic classification system in identification of deep invasion in colorectal polyps},
+  author={Puig, Ignasi and L{\'o}pez-Cer{\'o}n, Mar{\'\i}a and Arnau, Anna and Rosi{\~n}ol, {\`O}ria and Cuatrecasas, Miriam and Herreros-de-Tejada, Alberto and Ferr{\'a}ndez, {\'A}ngel and Serra-Burriel, Miquel and Nogales, {\'O}scar and Vida, Francesc and others},
+  journal={Gastroenterology},
+  volume={156},
+  number={1},
+  pages={75--87},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@article{ames2019artificial,
+  title={Artificial intelligence based hierarchical clustering of patient types and intervention categories in adult spinal deformity surgery: towards a new classification scheme that predicts quality and value},
+  author={Ames, Christopher P and Smith, Justin S and Pellis{\'e}, Ferran and Kelly, Michael and Alanay, Ahmet and Acaroglu, Emre and P{\'e}rez-Grueso, Francisco Javier S{\'a}nchez and Kleinst{\"u}ck, Frank and Obeid, Ibrahim and Vila-Casademunt, Alba and others},
+  journal={Spine},
+  volume={44},
+  number={13},
+  pages={915--926},
+  year={2019},
+  publisher={LWW}
+}
+
+@article{duran2021fecal,
+  title={Fecal MicroRNA-based algorithm increases effectiveness of fecal immunochemical test--based screening for colorectal cancer},
+  author={Duran-Sanchon, Saray and Moreno, Lorena and G{\'o}mez-Matas, Javier and Aug{\'e}, Josep M and Serra-Burriel, Miquel and Cuatrecasas, M{\'\i}riam and Moreira, Leticia and Serradesanferm, Anna and Pozo, {\`A}ngels and Grau, Jaume and others},
+  journal={Clinical Gastroenterology and Hepatology},
+  volume={19},
+  number={2},
+  pages={323--330},
+  year={2021},
+  publisher={WB Saunders}
+}
+
+@article{pizones2019impact,
+  title={Impact of adult scoliosis on Roussouly sagittal shape classification},
+  author={Pizones, Javier and Martin, Montserrat Baldan and Perez-Grueso, Francisco Javier S{\'a}nchez and Yilgor, Caglar and Vila-Casademunt, Alba and Serra-Burriel, Miquel and Obeid, Ibrahim and Alanay, Ahmet and Acaroglu, Emre R and Pellis{\'e}, Ferran and others},
+  journal={Spine},
+  volume={44},
+  number={4},
+  pages={270--279},
+  year={2019},
+  publisher={LWW}
+}
+
+@article{ames2019development,
+  title={Development of deployable predictive models for minimal clinically important difference achievement across the commonly used health-related quality of life instruments in adult spinal deformity surgery},
+  author={Ames, Christopher P and Smith, Justin S and Pellis{\'e}, Ferran and Kelly, Michael P and Gum, Jeffrey L and Alanay, Ahmet and Acaroglu, Emre and P{\'e}rez-Grueso, Francisco Javier S{\'a}nchez and Kleinst{\"u}ck, Frank S and Obeid, Ibrahim and others},
+  journal={Spine},
+  volume={44},
+  number={16},
+  pages={1144--1153},
+  year={2019},
+  publisher={LWW}
+}
+
+@article{keys2021population,
+  title={Population-based organized screening by faecal immunochemical testing and colorectal cancer mortality: a natural experiment},
+  author={Keys, Matthew Thomas and Serra-Burriel, Miquel and Mart{\'\i}nez-Lizaga, Natalia and Pellis{\'e}, Maria and Balaguer, Francesc and S{\'a}nchez, Ariadna and Bernal-Delgado, Enrique and Castells, Antoni},
+  journal={International journal of epidemiology},
+  volume={50},
+  number={1},
+  pages={143--155},
+  year={2021}
+}
+
+@article{serra2019transient,
+  title={Transient elastography for screening of liver fibrosis: cost-effectiveness analysis from six prospective cohorts in Europe and Asia},
+  author={Serra-Burriel, Miquel and Graupera, Isabel and Tor{\'a}n, Pere and Thiele, Maja and Roulot, Dominique and Wong, Vincent Wai-Sun and Guha, Indra Neil and Fabrellas, N{\'u}ria and Arslanow, Anita and Exp{\'o}sito, Carmen and others},
+  journal={Journal of hepatology},
+  volume={71},
+  number={6},
+  pages={1141--1151},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@article{dominguez2020cancer,
+  title={Cancer risks by gene, age, and gender in 6350 carriers of pathogenic mismatch repair variants: findings from the Prospective Lynch Syndrome Database},
+  author={Dominguez-Valentin, Mev and Sampson, Julian R and Sepp{\"a}l{\"a}, Toni T and Ten Broeke, Sanne W and Plazzer, John-Paul and Nakken, Sigve and Engel, Christoph and Aretz, Stefan and Jenkins, Mark A and Sunde, Lone and others},
+  journal={Genetics in Medicine},
+  volume={22},
+  number={1},
+  pages={15--25},
+  year={2020},
+  publisher={Nature Publishing Group US New York}
+}
+
+@article{pellise2019development,
+  title={Development and validation of risk stratification models for adult spinal deformity surgery},
+  author={Pellis{\'e}, Ferran and Serra-Burriel, Miquel and Smith, Justin S and Haddad, Sleiman and Kelly, Michael P and Vila-Casademunt, Alba and P{\'e}rez-Grueso, Francisco Javier S{\'a}nchez and Bess, Shay and Gum, Jeffrey L and Burton, Douglas C and others},
+  journal={Journal of Neurosurgery: Spine},
+  volume={31},
+  number={4},
+  pages={587--599},
+  year={2019},
+  publisher={American Association of Neurological Surgeons}
+}
+
+@article{gonzalez2020colon,
+  title={Colon capsule endoscopy versus CT colonography in FIT-positive colorectal cancer screening subjects: a prospective randomised trial—the VICOCA study},
+  author={Gonz{\'a}lez-Su{\'a}rez, Bego{\~n}a and Pag{\'e}s, Mario and Araujo, Isis Karina and Romero, Cristina and Rodr{\'\i}guez de Miguel, Cristina and Ayuso, Juan Ram{\'o}n and Pozo, {\`A}ngels and Vila-Casades{\'u}s, Maria and Serradesanferm, Anna and Gin{\`e}s, {\`A}ngels and others},
+  journal={BMC medicine},
+  volume={18},
+  pages={1--11},
+  year={2020},
+  publisher={BioMed Central}
+}
+
+@article{sanchez2022quality,
+  title={Quality of colonoscopy is associated with adenoma detection and postcolonoscopy colorectal cancer prevention in Lynch syndrome},
+  author={S{\'a}nchez, Ariadna and Roos, Victorine H and Navarro, Matilde and Pineda, Marta and Caballol, Berta and Moreno, Lorena and Carballal, Sabela and Rodr{\'\i}guez-Alonso, Lorena and y Cajal, Teresa Ramon and Llort, Gemma and others},
+  journal={Clinical Gastroenterology and Hepatology},
+  volume={20},
+  number={3},
+  pages={611--621},
+  year={2022},
+  publisher={WB Saunders}
+}
+
+@article{ames2019development,
+  title={Development of predictive models for all individual questions of SRS-22R after adult spinal deformity surgery: a step toward individualized medicine},
+  author={Ames, Christopher P and Smith, Justin S and Pellis{\'e}, Ferran and Kelly, Michael and Gum, Jeffrey L and Alanay, Ahmet and Acaro{\u{g}}lu, Emre and P{\'e}rez-Grueso, Francisco Javier S{\'a}nchez and Kleinst{\"u}ck, Frank S and Obeid, Ibrahim and others},
+  journal={European Spine Journal},
+  volume={28},
+  pages={1998--2011},
+  year={2019},
+  publisher={Springer Berlin Heidelberg}
+}
+
+@article{duran2020identification,
+  title={Identification and validation of microRNA profiles in fecal samples for detection of colorectal cancer},
+  author={Duran-Sanchon, Saray and Moreno, Lorena and Aug{\'e}, Josep M and Serra-Burriel, Miquel and Cuatrecasas, M{\'\i}riam and Moreira, Leticia and Mart{\'\i}n, Agatha and Serradesanferm, Anna and Pozo, {\`A}ngels and Costa, Rosa and others},
+  journal={Gastroenterology},
+  volume={158},
+  number={4},
+  pages={947--957},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{ames2020utilization,
+  title={Utilization of predictive modeling to determine episode of care costs and to accurately identify catastrophic cost nonwarranty outlier patients in adult spinal deformity surgery: a step toward bundled payments and risk sharing},
+  author={Ames, Christopher P and Smith, Justin S and Gum, Jeffrey L and Kelly, Michael and Vila-Casademunt, Alba and Burton, Douglas C and Hostin, Richard and Yeramaneni, Samrat and Lafage, Virginie and Schwab, Frank J and others},
+  journal={Spine},
+  volume={45},
+  number={5},
+  pages={E252--E265},
+  year={2020},
+  publisher={LWW}
+}
+
+@article{campillo2018predictive,
+  title={Predictive modeling of emergency cesarean delivery},
+  author={Campillo-Artero, Carlos and Serra-Burriel, Miquel and Calvo-P{\'e}rez, Andr{\'e}s},
+  journal={PloS one},
+  volume={13},
+  number={1},
+  pages={e0191248},
+  year={2018},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{richner2019factors,
+  title={Factors associated with having an indication for surgery in adult spinal deformity: an international European multicentre study},
+  author={Richner-Wunderlin, S and Mannion, AF and Vila-Casademunt, A and Pellise, F and Serra-Burriel, M and Seifert, Burkhardt and Aghayev, E and Acaroglu, E and Alanay, Ahmet and P{\'e}rez-Grueso, FJS and others},
+  journal={European Spine Journal},
+  volume={28},
+  pages={127--137},
+  year={2019},
+  publisher={Springer Berlin Heidelberg}
+}
+
+@article{serra2020impact,
+  title={Impact of multi-drug resistant bacteria on economic and clinical outcomes of healthcare-associated infections in adults: Systematic review and meta-analysis},
+  author={Serra-Burriel, Miquel and Keys, Matthew and Campillo-Artero, Carlos and Agodi, Antonella and Barchitta, Martina and Gikas, Achilleas and Palos, Carlos and L{\'o}pez-Casasnovas, Guillem},
+  journal={PloS one},
+  volume={15},
+  number={1},
+  pages={e0227139},
+  year={2020},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{caballeria2018high,
+  title={High prevalence of liver fibrosis among European adults with unknown liver disease: a population-based study},
+  author={Caballer{\'\i}a, Lloren{\c{c}} and Pera, Guillem and Arteaga, Ingrid and Rodr{\'\i}guez, Llu{\'\i}s and Alum{\`a}, Alba and Morillas, Rosa Ma and de la Ossa, Napole{\'o}n and D{\'\i}az, Alba and Exp{\'o}sito, Carmen and Miranda, Dolores and others},
+  journal={Clinical gastroenterology and hepatology},
+  volume={16},
+  number={7},
+  pages={1138--1145},
+  year={2018},
+  publisher={WB Saunders}
+}
+
+@article{guest2017comparative,
+  title={Comparative efficacy and safety of antibiotics used to treat acute bacterial skin and skin structure infections: results of a network meta-analysis},
+  author={Guest, Julian F and Esteban, Jaime and Manganelli, Anton G and Novelli, Andrea and Rizzardini, Giuliano and Serra-Burriel, Miquel},
+  journal={PloS one},
+  volume={12},
+  number={11},
+  pages={e0187792},
+  year={2017},
+  publisher={Public Library of Science}
+}
+
+@misc{lopez2017colaboracion,
+  title={Colaboraci{\'o}n p{\'u}blico-privada en sanidad: el modelo Alzira},
+  author={L{\'o}pez-Casanovas, Guillem and del Llano Se{\~n}ar{\'\i}s, Juan and Corrales, Gema Pi and Mascar{\'o}, Jordi Colomer and Vicente, Sergio Garc{\'\i}a and Peir{\'o}, Salvador and Pujolras, Laia Maynou and Burriel, Miquel Serra and Manganelli, Anton Giulio},
+  year={2017},
+  publisher={Fundaci{\'o}n Gaspar Casal}
+}
+
+@article{dominguez2021analysis,
+  title={Analysis in the Prospective Lynch Syndrome Database identifies sarcoma as part of the Lynch syndrome tumor spectrum},
+  author={Dominguez-Valentin, Mev and Sampson, Julian R and M{\o}ller, P{\aa}l and Sepp{\"a}l{\"a}, Toni T and PLSD Collaborators and Plazzer, John-Paul and Nakken, Sigve and Engel, Christoph and Aretz, Stefan and Jenkins, Mark A and others},
+  journal={International Journal of Cancer},
+  volume={148},
+  number={2},
+  pages={512--513},
+  year={2021},
+  publisher={John Wiley \& Sons, Inc. Hoboken, USA}
+}
+
+@article{costa2018s,
+  title={It's about time: Cesarean sections and neonatal health},
+  author={Costa-Ram{\'o}n, Ana Mar{\'\i}a and Rodr{\'\i}guez-Gonz{\'a}lez, Ana and Serra-Burriel, Miquel and Campillo-Artero, Carlos},
+  journal={Journal of health economics},
+  volume={59},
+  pages={46--59},
+  year={2018},
+  publisher={North-Holland}
+}
+
+@article{sola2021endpoints,
+  title={Endpoints and design of clinical trials in patients with decompensated cirrhosis: Position paper of the LiverHope Consortium},
+  author={Sol{\`a}, Elsa and Pose, Elisa and Campion, Daniela and Piano, Salvatore and Roux, Olivier and Simon-Talero, Macarena and Uschner, Frank and de Wit, Koos and Zaccherini, Giacomo and Alessandria, Carlo and others},
+  journal={Journal of Hepatology},
+  volume={74},
+  number={1},
+  pages={200--219},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{nunez2021dynamics,
+  title={The dynamics of satisfaction in surgical and non-surgical adult spinal deformity patients},
+  author={N{\'u}{\~n}ez-Pereira, S and Serra-Burriel, M and Vila-Casademunt, A and Hayashi, K and Haddad, S and Pizones, J and Kleinst{\"u}ck, F and Obeid, I and Alanay, A and Pellis{\'e}, F},
+  journal={European Spine Journal},
+  volume={2021},
+  number={Online ahead of print},
+  year={2021}
+}
+
+@article{serra2021cost,
+  title={Cost-sharing increase, medication adherence and hospitalizations in schizophrenia patients: a natural experiment},
+  author={Serra-Burriel, Miquel and Hurtado, Isabel and Sanf{\'e}lix-Gimeno, Gabriel and Garc{\'\i}a-Sempere, An{\'\i}bal and Peir{\'o}, Salvador},
+  journal={Clinical Pharmacology \& Therapeutics},
+  number={https://doi.org/10.1002/cpt.2283},
+  year={2021}
+}
+
+@article{vives2021lenience,
+  title={Lenience breeds strictness: the generosity-erosion effect in hiring decisions},
+  author={Vives Moya, Marc Llu{\'\i}s and Fern{\'a}ndez Navia, Tania and Teixid{\'o}-Figueras, Jordi and Serra Burriel, Miquel},
+  journal={Science Advances, 2021, vol. 7, num. eabe2045, p. 01-07},
+  year={2021},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{joshi2021state,
+  title={State-of-the-art reviews predictive modeling in adult spinal deformity: applications of advanced analytics},
+  author={Joshi, Rushikesh S and Lau, Darryl and Scheer, Justin K and Serra-Burriel, Miquel and Vila-Casademunt, Alba and Bess, Shay and Smith, Justin S and Pellise, Ferran and Ames, Christopher P},
+  journal={Spine deformity},
+  volume={9},
+  number={5},
+  pages={1223--1239},
+  year={2021},
+  publisher={Springer International Publishing}
+}
+
+@article{dominguez2021no,
+  title={No difference in penetrance between truncating and missense/aberrant splicing pathogenic variants in MLH1 and MSH2: a prospective Lynch syndrome database study},
+  author={Dominguez-Valentin, Mev and Plazzer, John-Paul and Sampson, Julian R and Engel, Christoph and Aretz, Stefan and Jenkins, Mark A and Sunde, Lone and Bernstein, Inge and Capella, Gabriel and Balaguer, Francesc and others},
+  journal={Journal of clinical medicine},
+  volume={10},
+  number={13},
+  pages={2856},
+  year={2021},
+  publisher={MDPI}
+}
+
+@article{sequeira2022improving,
+  title={Improving the detection of infectious diseases in at-risk migrants with an innovative integrated multi-infection screening digital decision support tool (IS-MiHealth) in primary care: a pilot cluster-randomized-controlled trial},
+  author={Sequeira-Aymar, Ethel and Cruz, Angeline and Serra-Burriel, Miquel and Di Lollo, Ximena and Gon{\c{c}}alves, Alessandra Queiroga and Camps-Vil{\`a}, Laura and Monclus-Gonzalez, Marta M and Revuelta-Mu{\~n}oz, Elisa M and Busquet-Sol{\'e}, Nuria and Sarriegui-Dom{\'\i}nguez, Susana and others},
+  journal={Journal of travel medicine},
+  volume={29},
+  number={7},
+  pages={taab100},
+  year={2022},
+  publisher={Oxford University Press}
+}
+
+@article{brungger2021surgical,
+  title={Surgical procedures in inpatient versus outpatient settings and its potential impact on follow-up costs},
+  author={Br{\"u}ngger, Beat and B{\"a}hler, Caroline and Schwenkglenks, Matthias and Ulyte, Agne and Dressel, Holger and von Wyl, Viktor and Gruebner, Oliver and Wei, Wenjia and Serra-Burriel, Miquel and Blozik, Eva},
+  journal={Health Policy},
+  volume={125},
+  number={10},
+  pages={1351--1358},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{gines2022population,
+  title={Population screening for liver fibrosis: towards early diagnosis and intervention for chronic liver diseases},
+  author={Gin{\`e}s, Pere and Castera, Laurent and Lammert, Frank and Graupera, Isabel and Serra-Burriel, Miquel and Allen, Alina M and Wong, Vincent Wai-Sun and Hartmann, Phillipp and Thiele, Maja and Caballeria, Lloren{\c{c}} and others},
+  journal={Hepatology},
+  year={2022}
+}
+
+@article{kanavos2017controlling,
+  title={Controlling expenditure within the Spanish pharmaceutical market: macro-and micro-level policy approaches},
+  author={Kanavos, Panos and Mills, Mackenzie and Cheatley, Jane and Lopez-Casasnovas, Guillem and Manganelli, Anton and Maynou, Laia and Serra, Miquel},
+  year={2017},
+  publisher={LSE Health}
+}
+
+@article{pellise2021quality,
+  title={Quality metrics in adult spinal deformity surgery over the last decade: a combined analysis of the largest prospective multicenter data sets},
+  author={Pellis{\'e}, Ferran and Serra-Burriel, Miquel and Vila-Casademunt, Alba and Gum, Jeffrey L and Obeid, Ibrahim and Smith, Justin S and Kleinst{\"u}ck, Frank S and Bess, Shay and Pizones, Javier and Lafage, Virginie and others},
+  journal={Journal of Neurosurgery: Spine},
+  volume={1},
+  number={aop},
+  pages={1--9},
+  year={2021},
+  publisher={American Association of Neurological Surgeons}
+}
+
+@article{serra2021association,
+  title={Association between antibiotic resistance in intensive care unit (ICU)--acquired infections and excess resource utilization: Evidence from Spain, Italy, and Portugal},
+  author={Serra-Burriel, Miquel and Campillo-Artero, Carlos and Agodi, Antonella and Barchitta, Martina and L{\'o}pez-Casasnovas, Guillem},
+  journal={Infection Control \& Hospital Epidemiology},
+  pages={1--8},
+  year={2021},
+  publisher={Cambridge University Press}
+}
+
+@article{bassegoda2022decompensation,
+  title={Decompensation in advanced nonalcoholic fatty liver disease may occur at lower hepatic venous pressure gradient levels than in patients with viral disease},
+  author={Bassegoda, Octavi and Olivas, Pol and Turco, Laura and Mandorfer, Mattias and Serra-Burriel, Miquel and Tellez, Luis and Kwanten, Wilhelmus and Laroyenne, Alexia and Farcau, Oana and Alvarado, Edilmar and others},
+  journal={Clinical gastroenterology and hepatology},
+  volume={20},
+  number={10},
+  pages={2276--2286},
+  year={2022},
+  publisher={WB Saunders}
+}
+
+@article{rivero2020white,
+  title={White-light endoscopy is adequate for Lynch syndrome surveillance in a randomized and noninferiority study},
+  author={Rivero-S{\'a}nchez, Liseth and Arnau-Collell, Coral and Herrero, Jes{\'u}s and Remedios, David and Cubiella, Joaqu{\'\i}n and Garc{\'\i}a-Cougil, Marta and Alvarez, Victoria and Alb{\'e}niz, Eduardo and Calvo, Patricia and Gordillo, Jordi and others},
+  journal={Gastroenterology},
+  volume={158},
+  number={4},
+  pages={895--904},
+  year={2020},
+  publisher={WB Saunders}
+}
+
+@article{karlsen2022easl,
+  title={The EASL--Lancet Liver Commission: protecting the next generation of Europeans against liver disease complications and premature mortality},
+  author={Karlsen, Tom H and Sheron, Nick and Zelber-Sagi, Shira and Carrieri, Patrizia and Dusheiko, Geoffrey and Bugianesi, Elisabetta and Pryke, Rachel and Hutchinson, Sharon J and Sangro, Bruno and Martin, Natasha K and others},
+  journal={The Lancet},
+  volume={399},
+  number={61--116},
+  year={2022}
+}
+
+@incollection{serra2022machine,
+  title={Machine Learning-Based Clustering Analysis: Foundational Concepts, Methods, and Applications},
+  author={Serra-Burriel, Miquel and Ames, Christopher P},
+  booktitle={Machine Learning in Clinical Neuroscience},
+  volume={134},
+  pages={91--100},
+  year={2022},
+  publisher={Springer}
+}
+
+@article{graupera2022low,
+  title={Low accuracy of FIB-4 and NAFLD fibrosis scores for screening for liver fibrosis in the population},
+  author={Graupera, Isabel and Thiele, Maja and Serra-Burriel, Miquel and Caballeria, Lloren{\c{c}} and Roulot, Dominique and Wong, Grace Lai-Hung and Fabrellas, N{\'u}ria and Guha, Indra Neil and Arslanow, Anita and Exp{\'o}sito, Carmen and others},
+  journal={Clinical Gastroenterology and Hepatology},
+  volume={20},
+  number={11},
+  pages={2567--2576},
+  year={2022},
+  publisher={WB Saunders}
+}
+
+@article{pose2021treatment,
+  title={Treatment With Simvastatin and Rifaximin Restores the Plasma Metabolomic Profile in Patients With Decompensated Cirrhosis},
+  author={Pose, Elisa and Sol{\`a}, Elsa and Lozano, Juan J and Juanola, Adri{\`a} and Sidorova, Julia and Zaccherini, Giacomo and de Wit, Koos and Uschner, Frank and Tonon, Marta and Kazankov, Konstantin and others},
+  journal={Hepatology Communications},
+  year={2021}
+}
+
+@article{strassmann2023nationwide,
+  title={Nationwide indoor smoking ban and impact on smoking behaviour and lung function: a two-population natural experiment},
+  author={Strassmann, Alexandra and {\c{C}}olak, Yunus and Serra-Burriel, Miquel and Nordestgaard, B{\o}rge G and Turk, Alexander and Afzal, Shoaib and Puhan, Milo A},
+  journal={Thorax},
+  volume={78},
+  number={2},
+  pages={144--150},
+  year={2023},
+  publisher={BMJ Publishing Group Ltd}
+}
+
+@article{pellise2022surgeons,
+  title={Surgeons’ risk perception in ASD surgery: The value of objective risk assessment on decision making and patient counselling},
+  author={Pellis{\'e}, Ferran and Vila-Casademunt, Alba and N{\'u}{\~n}ez-Pereira, Susana and Haddad, Sleiman and Smith, Justin S and Kelly, Michael P and Alanay, Ahmet and Shaffrey, Christopher and Pizones, Javier and Yilgor, {\c{C}}aglar and others},
+  journal={European Spine Journal},
+  volume={31},
+  number={5},
+  pages={1174--1183},
+  year={2022},
+  publisher={Springer Berlin Heidelberg Berlin/Heidelberg}
+}
+
+@article{girod2022association,
+  title={Association of pulmonary vein isolation and major cardiovascular events in patients with atrial fibrillation},
+  author={Girod, Marc and Coslovsky, Michael and Aeschbacher, Stefanie and Sticherling, Christian and Reichlin, Tobias and Roten, Laurent and Rodondi, Nicolas and Ammann, Peter and Auricchio, Angelo and Moschovitis, Giorgio and others},
+  journal={Clinical Research in Cardiology},
+  volume={111},
+  number={9},
+  pages={1048--1056},
+  year={2022},
+  publisher={Springer Berlin Heidelberg Berlin/Heidelberg}
+}
+
+@article{von2021drivers,
+  title={Drivers of acceptance of COVID-19 proximity tracing apps in Switzerland: panel survey analysis},
+  author={von Wyl, Viktor and H{\"o}glinger, Marc and Sieber, Chlo{\'e} and Kaufmann, Marco and Moser, Andr{\'e} and Serra-Burriel, Miquel and Ballouz, Tala and Menges, Dominik and Frei, Anja and Puhan, Milo Alan and others},
+  journal={JMIR public health and surveillance},
+  volume={7},
+  number={1},
+  pages={e25701},
+  year={2021},
+  publisher={JMIR Publications Inc., Toronto, Canada}
+}
+
+@article{wondra2022validation,
+  title={Validation of Adult Spinal Deformity Surgical Outcome Prediction Tools in Adult Symptomatic Lumbar Scoliosis},
+  author={Wondra, James P and Kelly, Michael P and Greenberg, Jacob and Yanik, Elizabeth L and Ames, Christopher and Pellise, Ferran and Vila-Casademunt, Alba and Smith, Justin S and Bess, Shay and Shaffrey, Christopher and others},
+  journal={Spine},
+  pages={10--1097},
+  year={2022},
+  publisher={LWW}
+}
+
+@article{graupera2022liverscreen,
+  title={LiverScreen project: study protocol for screening for liver fibrosis in the general population in European countries},
+  author={Graupera, Isabel and Thiele, Maja and Ma, Ann T and Serra-Burriel, Miquel and Pich, Judit and Fabrellas, N{\'u}ria and Caballeria, Lloren{\c{c}} and de Knegt, Robert J and Grgurevic, Ivica and Reichert, Mathias and others},
+  journal={BMC public health},
+  volume={22},
+  number={1},
+  pages={1385},
+  year={2022},
+  publisher={BioMed Central London}
+}
+
+@article{frei2022effectiveness,
+  title={Effectiveness of a long-term home-based exercise training program in patients with COPD following pulmonary rehabilitation: A multi-center randomized controlled trial},
+  author={Frei, Anja and Radtke, Thomas and Dalla Lana, Kaba and Brun, Patrick and Sigrist, Thomas and Spielmanns, Marc and Beyer, Swantje and Riegler, Thomas F and B{\"u}sching, Gilbert and Spielmanns, Sabine and others},
+  journal={Chest},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{bassegoda2022high,
+  title={High frequency of acute decompensation and cancer in patients with compensated cirrhosis due to nonalcoholic fatty liver disease: A retrospective cohort study},
+  author={Bassegoda, Octavi and Rivera-Esteban, Jes{\'u}s and Serra, Isabel and Morillas, Rosa and Broquetas, Teresa and Vergara, Mercedes and Rodriguez, Adri{\`a} and Aracil, Carles and Virol{\'e}s, Silvia and Carri{\'o}n, Jose A and others},
+  journal={Hepatology Communications},
+  volume={6},
+  number={11},
+  pages={3212--3222},
+  year={2022}
+}
+
+@article{aebersold2023patient,
+  title={Patient clusters and cost trajectories in the Swiss Atrial Fibrillation cohort},
+  author={Aebersold, Helena and Serra-Burriel, Miquel and Foster-Wittassek, Fabienne and Moschovitis, Giorgio and Aeschbacher, Stefanie and Auricchio, Angelo and Beer, J{\"u}rg Hans and Blozik, Eva and Bonati, Leo H and Conen, David and others},
+  journal={Heart},
+  volume={109},
+  number={10},
+  pages={763--770},
+  year={2023},
+  publisher={BMJ Publishing Group Ltd and British Cardiovascular Society}
+}
+
+@article{carl2022comparison,
+  title={Comparison of uptake and prices of biosimilars in the US, Germany, and Switzerland},
+  author={Carl, David L and Laube, Yannic and Serra-Burriel, Miquel and Naci, Huseyin and Ludwig, Wolf-Dieter and Vokinger, Kerstin N},
+  journal={JAMA network open},
+  volume={5},
+  number={12},
+  pages={e2244670--e2244670},
+  year={2022},
+  publisher={American Medical Association}
+}
+
+@article{gines2023screening,
+  title={Screening for fibrosis to diagnose liver diseases early: the LIVERSCREEN project},
+  author={Gin{\`e}s, Pere and Thiele, Maja and Graupera, Isabel and Serra-Burriel, Miquel and de Knegt, Robert J and Lammert, Frank and Castera, Laurent and Korenjak, Marko and Kamath, Patrick S and Grgurevi{\'c}, Ivica and others},
+  journal={Nature Medicine},
+  volume={29},
+  number={4},
+  pages={774--775},
+  year={2023},
+  publisher={Nature Publishing Group US New York}
+}
+
+@article{da2021compound,
+  title={Compound endoscopic morphological features for identifying non-pedunculated lesions≥ 20 mm with intramucosal neoplasia},
+  author={da Costa-Seixas, Jo{\~a}o Pedro and L{\'o}pez-Cer{\'o}n, Mar{\'\i}a and Arnau, Anna and Rosi{\~n}ol, {\`O}ria and Cuatrecasas, Miriam and Herreros-de-Tejada, Alberto and Ferr{\'a}ndez, {\'A}ngel and Serra-Burriel, Miquel and Nogales, {\'O}scar and de Castro, Luisa and others},
+  journal={Cancers},
+  volume={13},
+  number={21},
+  pages={5302},
+  year={2021},
+  publisher={MDPI}
+}
+
+@article{vokinger2023therapeutic,
+  title={Therapeutic value of first versus supplemental indications of drugs in US and Europe (2011-20): retrospective cohort study},
+  author={Vokinger, Kerstin N and Glaus, Camille EG and Kesselheim, Aaron S and Serra-Burriel, Miquel and Ross, Joseph S and Hwang, Thomas J},
+  journal={BMJ},
+  volume={382},
+  year={2023},
+  publisher={British Medical Journal Publishing Group}
+}
+
+@article{serra2023cancer,
+  title={The cancer premium--explaining differences in prices for cancer vs non-cancer drugs with efficacy and epidemiological endpoints in the US, Germany, and Switzerland: a cross sectional study},
+  author={Serra-Burriel, Miquel and Per{\'e}nyi, Gell{\'e}rt and Laube, Yannic and Mitchell, Aaron P and Vokinger, Kerstin N},
+  journal={EClinicalMedicine},
+  volume={61},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@article{serra2023development,
+  title={Development, validation, and prognostic evaluation of a risk score for long-term liver-related outcomes in the general population: a multicohort study},
+  author={Serra-Burriel, Miquel and Juanola, Adri{\`a} and Serra-Burriel, Feliu and Thiele, Maja and Graupera, Isabel and Pose, Elisa and Pera, Guillem and Grgurevic, Ivica and Caballeria, Lloren{\c{c}} and Piano, Salvatore and others},
+  journal={The Lancet},
+  volume={402},
+  number={10406},
+  pages={988--996},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@article{aebersold2023estimating,
+  title={Estimating the cost impact of atrial fibrillation using a prospective cohort study and population-based controls},
+  author={Aebersold, Helena and Foster-Witassek, Fabienne and Serra-Burriel, Miquel and Br{\"u}ngger, Beat and Aeschbacher, Stefanie and Beer, J{\"u}rg-Hans and Blozik, Eva and Blum, Manuel and Bonati, Leo and Conen, David and others},
+  journal={BMJ open},
+  volume={13},
+  number={9},
+  pages={e072080},
+  year={2023},
+  publisher={British Medical Journal Publishing Group}
+}
+
+@article{serra2023real,
+  title={Real-world cost-effectiveness of pulmonary vein isolation for atrial fibrillation: a target trial approach},
+  author={Serra-Burriel, Miquel and Aebersold, Helena and Foster-Witassek, Fabienne and Coslovsky, Michael and Rodondi, Nicolas and Blum, Manuel R and Sticherling, Christian and Moschovitis, Giorgio and Beer, J{\"u}rg H and Reichlin, Tobias and others},
+  journal={Value in Health},
+  volume={26},
+  number={12},
+  pages={1721--1729},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@article{vokinger2023regulatory,
+  title={Regulatory review duration and differences in submission times of drugs in the United States and Europe, 2011 to 2020},
+  author={Vokinger, Kerstin N and Serra-Burriel, Miquel and Glaus, Camille EG and Rohr, Ulrich-Peter and Hwang, Thomas J and Dalla Torre di Sanguinetto, Simon and Kesselheim, Aaron S},
+  journal={Annals of Internal Medicine},
+  volume={176},
+  number={10},
+  pages={1413--1418},
+  year={2023},
+  publisher={American College of Physicians}
+}
+
+@article{juanola2024novel,
+  title={Novel prognostic biomarkers in decompensated cirrhosis: a systematic review and meta-analysis},
+  author={Juanola, Adri{\`a} and Ma, Ann Thu and De Wit, Koos and Gananandan, Kohilan and Roux, Olivier and Zaccherini, Giacomo and Jim{\'e}nez, C{\'e}sar and Tonon, Marta and Sol{\'e}, Cristina and Villaseca, Clara and others},
+  journal={Gut},
+  volume={73},
+  number={1},
+  pages={156--165},
+  year={2024},
+  publisher={BMJ Publishing Group}
+}
+
+@article{foster2023longitudinal,
+  title={Longitudinal Changes in Health-Related Quality of Life in Patients With Atrial Fibrillation},
+  author={Foster-Witassek, Fabienne and Aebersold, Helena and Aeschbacher, Stefanie and Ammann, Peter and Beer, J{\"u}rg H and Blozik, Eva and Bonati, Leo H and Cattaneo, Mattia and Coslovsky, Michael and Felder, Stefan and others},
+  journal={Journal of the American Heart Association},
+  volume={12},
+  number={21},
+  pages={e031872},
+  year={2023}
+}
+
+@article{serra2023development,
+  title={Development Pipeline and Geographic Representation of Trials for Artificial Intelligence/Machine Learning-Enabled Medical Devices (2010 to 2023)},
+  author={Serra-Burriel, M and Locher, L and Vokinger, KN},
+  journal={NEJM AI},
+  number={DOI: 10.1056/AIpc2300038},
+  year={2023}
+}
+
+@article{aebersold2024patients,
+  title={Patients on vitamin K treatment: is switching to direct-acting oral anticoagulation cost-effective? A target trial on a prospective cohort},
+  author={Aebersold, Helena and Foster-Witassek, Fabienne and Aeschbacher, Stefanie and Beer, Juerg H and Blozik, Eva and Blum, Manuel and Bonati, Leo and Conte, Giulio and Coslovsky, Michael and De Perna, Maria Luisa and others},
+  journal={Open Heart},
+  volume={11},
+  number={1},
+  pages={e002567},
+  year={2024},
+  publisher={Archives of Disease in childhood}
+}
+
+@article{thiele2024screening,
+  title={Screening for liver fibrosis: Lessons from colorectal and lung cancer screening},
+  author={Thiele, Maja and Kamath, Patrick S and Graupera, Isabel and Castells, Antoni and de Koning, Harry J and Serra-Burriel, Miquel and Lammert, Frank and Gin{\`e}s, Pere},
+  journal={Nature Reviews Gastroenterology \& Hepatology},
+  pages={1--11},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{merz2023discrete,
+  title={A discrete choice experiment on price and flavour effects on the appeal of nicotine products: a pilot study among young adults in Switzerland},
+  author={Merz, Larissa and Puhan, Milo A and Serra-Burriel, Miquel},
+  journal={Schweizerische Medizinische Wochenschrift},
+  volume={154},
+  pages={3733},
+  year={2023},
+  publisher={EMH Swiss Medical Publishers}
+}
+
+@article{pose2023simvastatin,
+  title={Simvastatin plus Rifaximin to prevent ACLF in patients with decompensated cirrhosis. A randomised, double-blind, placebo-controlled, phase-3 trial: the liverhope efficacy trial},
+  author={Pose, Elisa and Jim{\'e}nez, C{\'e}sar and Zaccherini, Giacomo and Campion, Daniela and Piano, Salvatore and Uschner, Frank Erhard and de Wit, Koos and Roux, Olivier and Gananandan, Kohilan and Laleman, Wim and others},
+  journal={Journal of hepatology},
+  volume={78},
+  number={Supplement 1},
+  pages={S10--511},
+  year={2023},
+  publisher={Elsevier}
+}
+
+@article{gines2024glucagon,
+  title={Glucagon-Like Peptide-1 Receptor Agonists for Treatment of Steatotic Liver Disease in Patients With Type 2 Diabetes Mellitus: Growing Evidence But Not Yet There},
+  author={Gin{\`e}s, Pere and Serra-Burriel, Miquel},
+  journal={Gastroenterology},
+  volume={167},
+  number={4},
+  pages={653--655},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@inproceedings{serra2024drug,
+  title={Drug Prices After Patent Expirations in High-Income Countries and Implications for Cost-Effectiveness Analyses},
+  author={Serra-Burriel, M and Martin-Bassols, N and Per{\'e}nyi, G and Vokinger, KN},
+  booktitle={JAMA Health Forum},
+  volume={5},
+  number={8},
+  year={2024}
+}
+
+@article{glaus2024time,
+  title={Time From Approval to Reimbursement of New Drugs: A Comparative Analysis Between the United States, England, Germany, France, and Switzerland (2011--2022)},
+  author={Glaus, Camille EG and Serra-Burriel, Miquel and Dusetzina, Stacie B and Vokinger, Kerstin N},
+  journal={Annals of internal medicine},
+  volume={177},
+  number={10},
+  pages={1442--1444},
+  year={2024},
+  publisher={American College of Physicians}
+}
+
+@article{unterfrauner2024fusion,
+  title={Fusion versus decompression alone for lumbar degenerative spondylolisthesis and spinal stenosis: a target trial emulation with index trial benchmarking},
+  author={Unterfrauner, Ines and Mu{\~n}oz Laguna, Javier and Serra-Burriel, Miquel and Burgstaller, Jakob M and U{\c{c}}kay, Ilker and Farshad, Mazda and Hincapi{\'e}, Cesar A},
+  journal={European Spine Journal},
+  pages={1--11},
+  year={2024},
+  publisher={Springer Berlin Heidelberg Berlin/Heidelberg}
+}
+
+@article{nussli2024comparative,
+  title={Comparative Analysis of Drug Shortages in the US and Germany (2016--2023)},
+  author={Nussli, Emanuel and Serra-Burriel, Miquel and Vokinger, Kerstin N},
+  journal={Journal of Law, Medicine \& Ethics},
+  volume={52},
+  number={2},
+  pages={488--497},
+  year={2024},
+  publisher={Cambridge University Press}
+}
+
+@article{locher2024effect,
+  title={Why effect sizes are systematically larger for progression-free survival than overall survival in cancer drug trials: prognostic scores as a way forward},
+  author={Locher, Luca and Serra-Burriel, Miquel and Trapani, Dario and Nussli, Emanuel and Vokinger, Kerstin N},
+  journal={European Journal of Cancer},
+  pages={115106},
+  year={2024},
+  publisher={Pergamon}
+}

@@ -1,11 +1,49 @@
 ---
-title: "miquel-serra.github.io"
+title: "Miquel Serra-Burriel"
+image: IMG_3056.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=RYwMv3sAAAAJ&view_op=list_works&sortby=pubdate
+    - text: UZH
+      href: https://www.ebpi.uzh.ch/en/aboutus/departments/epidemiology/division_cde/teamcde/serra_burriel_miquel.html
+    - text: Email
+      href: mailto:miquel.serraburriel@uzh.ch
 ---
 
-This is a Quarto website.
+Welcome to my personal website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am an assistant professor in Epidemiology and Health Economics at the Faculties of Medicine and Science of the University of Zürich.
 
-```{r}
-1 + 1
+I work at the intersections of medicine, economics, health, and regulation.
+
+Here you will find updated information about my work as researcher and teacher.
+
+```         
+```
+
+## News
+
+-   7 January 2025 We have posted our pre-print showing that machine learning models for treatment effect heterogeneity do not [validate](https://arxiv.org/abs/2501.04061).
+-   28 October 2024 I was asked some questions regarding [price transparency](https://elpais.com/sociedad/2024-10-28/la-paradojica-opacidad-de-los-precios-de-los-medicamentos-por-que-los-gobiernos-hacen-lo-contrario-de-lo-que-dicen.html) in EL PAÍS.
+-   16 August 2023 EL PAÍS made an [article](https://english.elpais.com/science-tech/2023-08-16/why-cancer-treatments-can-cost-up-to-three-times-more-than-other-drugs.html) about our cancer premium study.
+-   5 August 2023 EL PAÍS storied our supplementary indications [piece.](https://elpais.com/salud-y-bienestar/2023-08-05/como-de-valiosos-son-los-farmacos-mas-novedosos-lo-nuevo-no-siempre-es-mejor.html)
+
+------------------------------------------------------------------------
+
+University of Zürich
+
+Epidemiology, Biostatistics & Prevention Institute (EBPI)
+
+Hirschengraben 84, CH-8001 Zurich
+
+Office HRS G23
+
+```{r, echo=FALSE}
+paste("Last update:",date())
+
 ```

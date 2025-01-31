@@ -3,18 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "miquel-serra.github.io"
+  title: "Miquel Serra-Burriel"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - cv.qmd
+      - research.qmd
+      - projects.qmd
+      - teaching.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
+    linkcolor: "#ff3393"
     css: styles.css
     toc: true
 
 editor: visual
+
+
 
